@@ -1,4 +1,5 @@
 # This Synth1 Bank Does Not Exist
+TEST
 Local man tries to learn PyTorch before going to graduate school.
 
 # How to Use
